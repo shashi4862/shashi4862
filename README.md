@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, SQL, etc**
 
-- 💬 Ask me about **HTML, C++, JAVA**
+- 💬 Ask me about **HTML, C++, JAVA, Web Development**
 
 - 📫 How to reach me **ranjanshashi4862@gmail.com**
 
