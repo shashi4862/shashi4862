@@ -1,5 +1,3 @@
-<img align="center" alt="coding" width="600" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 <h1 align="center">Hi 👋, I'm Shashi Ranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
