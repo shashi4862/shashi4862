@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi4862&label=Profile%20views&color=0e75b6&style=flat" alt="shashi4862" /> </p>
 
-- 🌱 I’m currently learning **Spring, Microservices**
+- 🌱 I’m currently learning ** Java, J2EE, Hibernate, Spring, Microservices, SQL, **
 
 - 👨‍💻 All of my projects are available at [https://shashi4862.github.io/Shashi-s_Portfolio/](https://shashi4862.github.io/Shashi-s_Portfolio/)
 
